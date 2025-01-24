@@ -1,0 +1,7 @@
+
+Welcome!
+
+WARNING: File System Check Recommended! An unsafe reboot may have caused an inconsistency in the disk drive.
+It is strongly recommended that you check the file system consistency before proceeding.
+Please run 'execute disk scan 1'
+Note: The device will reboot and scan the disk during startup. This may take up to an hour.
